@@ -16,7 +16,7 @@ function App() {
           This is my first line and commit!
         </p>
         <p>
-          This is my master project!
+          This is day one branch!
         </p>
         <a
           className="App-link"
