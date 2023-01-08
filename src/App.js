@@ -19,7 +19,7 @@ function App() {
           This is day one branch!
         </p>
         <p>
-          Another commit... my second
+          My 3rd Commit of day one branch
         </p>
       </header>
     </div>
