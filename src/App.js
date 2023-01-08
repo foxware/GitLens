@@ -18,14 +18,9 @@ function App() {
         <p>
           This is day one branch!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          Another commit... my second
+        </p>
       </header>
     </div>
   );
