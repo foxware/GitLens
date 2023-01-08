@@ -7,19 +7,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>
-          Hello World!
-        </p>
-        <p>
-          This is my first line and commit!
+          Hello Paul!
         </p>
         <p>
           This is day one branch!
         </p>
         <p>
-          My 3rd Commit of day one branch
+          My 4th Commit of day one branch
         </p>
       </header>
     </div>
