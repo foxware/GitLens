@@ -12,6 +12,12 @@ function App() {
         <p>
           Hello World!
         </p>
+        <p>
+          This is my first line and commit!
+        </p>
+        <p>
+          This is my master project!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
