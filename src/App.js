@@ -8,13 +8,13 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Commitments starting from 15th January</h2>
         <p>
-          Hello Pauly!
+          Hello Paul!
         </p>
         <p>
-          This used to be a stash test!
+          Hopefully this works!
         </p>
         <p>
-          My 7th Commit of day one branch
+          My 8th Commit of day one branch
         </p>
       </header>
     </div>
