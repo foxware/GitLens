@@ -11,6 +11,9 @@ function App() {
           Hello Pauly!
         </p>
         <p>
+          Stash Test!
+        </p>
+        <p>
           This is day one branch!
         </p>
         <p>
