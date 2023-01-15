@@ -6,14 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h2>Commitments starting from 15th January</h2>
         <p>
-          Hello Paul!
+          Hello Pauly!
         </p>
         <p>
           This is day one branch!
         </p>
         <p>
-          My 4th Commit of day one branch
+          My 5th Commit of day one branch
         </p>
       </header>
     </div>
