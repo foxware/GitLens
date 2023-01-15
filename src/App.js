@@ -11,13 +11,10 @@ function App() {
           Hello Pauly!
         </p>
         <p>
-          Stash Test!
+          This used to be a stash test!
         </p>
         <p>
-          This is day one branch!
-        </p>
-        <p>
-          My 5th Commit of day one branch
+          My 7th Commit of day one branch
         </p>
       </header>
     </div>
