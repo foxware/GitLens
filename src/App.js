@@ -6,26 +6,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h2>Commitments starting from 15th January</h2>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello Paul!
         </p>
         <p>
-          Hello World!
+          Hopefully this works!
         </p>
         <p>
-          This is my first line and commit!
+          My 9th Commit of day one branch
         </p>
-        <p>
-          This is my master project!
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
